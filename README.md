@@ -1,4 +1,4 @@
-# Sass Starter Pack
+# Node Sass Starter
 
 A light package for compiling Sass and running a dev server
 
